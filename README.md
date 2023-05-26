@@ -30,7 +30,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,dotnet,html,css,js,nodejs,express,mongodb,postman,tailwind,tauri,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cs,dotnet,postman,mongodb,nodejs,vite,express,tailwind,tauri,vscode,visualstudio" />
   </a>
 </p>
 
