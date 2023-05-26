@@ -46,6 +46,16 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
 
 <br>
 
+- **Frameworks **:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,angular" />
+  </a>
+</p>
+
+<br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
