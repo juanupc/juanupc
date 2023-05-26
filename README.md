@@ -56,10 +56,13 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
 
 <br>
 
-- **Cloud Hosting**:
+- **Database**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
 <br>
 
 - **Softwares and Tools**:
