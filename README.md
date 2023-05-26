@@ -30,7 +30,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,Java-Light" />
   </a>
 </p>
 
