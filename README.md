@@ -23,7 +23,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cs,java,js,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,php,java,js,dotnet" />
   </a>
 </p>
 
