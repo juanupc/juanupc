@@ -6,8 +6,7 @@
 </p>
 
 <br>	
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
-- **About me**:
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px></picture> 
 
 <br>
 Hi, I'm Juan , a passionate systems engineering student with a keen interest in software development and solving complex problems. My goal is to leverage my technical skills and knowledge in technology to contribute to the growth and success of a leading organization in the industry.
