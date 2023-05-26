@@ -16,12 +16,11 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+Hi, I'm Juan , a passionate systems engineering student with a keen interest in software development and solving complex problems. My goal is to leverage my technical skills and knowledge in technology to contribute to the growth and success of a leading organization in the industry.
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+Throughout my academic journey, I have gained a solid understanding in areas such as software design, web development, databases, and distributed systems. I have worked on various projects, both individually and in multidisciplinary teams, allowing me to develop collaboration, communication, and problem-solving skills.
+
+I am a curious individual, always seeking to learn new technologies and stay updated in such a dynamic field as systems engineering. I am interested in exploring emerging areas like artificial intelligence, machine learning, and cloud computing, and I am eager to take on challenges that allow me to grow professionally.
 
 <br><br>
 
