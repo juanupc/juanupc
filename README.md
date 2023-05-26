@@ -46,7 +46,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
 
 <br>
 
-- **Frameworks **
+- **Frameworks**
 
 <p align="center">
   <a href="https://skillicons.dev">
