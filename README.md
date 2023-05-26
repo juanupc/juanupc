@@ -30,7 +30,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cs,java,js" />
+    <img src="https://skillicons.dev/icons?i=php,cs,java,js,dotnet" />
   </a>
 </p>
 
@@ -76,9 +76,11 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman"/>
+  </a>
+</p>
 
 </p>
 
