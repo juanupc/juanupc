@@ -65,7 +65,7 @@ Hi, I'm Juan , a passionate systems engineering student with a keen interest in 
 - **Softwares and Tools**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vs code,tauri,express,vite,nodejs" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,tauri,express,vite,nodejs" />
   </a>
 </p>
 
